@@ -1,0 +1,15 @@
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\bin\Debug\net6.0\homework 9.exe
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\bin\Debug\net6.0\homework 9.deps.json
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\bin\Debug\net6.0\homework 9.runtimeconfig.json
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\bin\Debug\net6.0\homework 9.dll
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\bin\Debug\net6.0\homework 9.pdb
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.csproj.AssemblyReference.cache
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.AssemblyInfoInputs.cache
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.AssemblyInfo.cs
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.csproj.CoreCompileInputs.cache
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.dll
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\refint\homework 9.dll
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.pdb
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\homework 9.genruntimeconfig.cache
+C:\Users\nadyy\OneDrive\Рабочий стол\C#\Lesson 9\homework 9\obj\Debug\net6.0\ref\homework 9.dll
